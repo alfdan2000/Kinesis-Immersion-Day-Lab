@@ -52,7 +52,7 @@ Deploy Cloudformation Template from the above link
 
 
 <li>Login to KDG with the user/password you created during CloudFormation stack creation, and select your region (us-east-1). </li>
-<li>At this stage, there’s no stream we can push data towards. Let’s define the structure of our simulated data using the parametrized template. Copy and paste it to the template tabs. Template to use:</li>
+<li>At this stage, there’s no stream we can push data towards. Let’s define the structure of our simulated data using the parametrized template. Copy and paste it to the template tabs.</li>
 
 ```
 {
