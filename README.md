@@ -167,7 +167,7 @@ Amazon Kinesis Firehose benefits are:
 
 ![data to kinesis](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/data+to+kinesis.png)
  
-<li>Wait a few minutes. From AWS Console -> Firehose -> Monitoring tab, check activity on your delivery stream.
+<li>Wait a few minutes. From AWS Console -> Firehose -> tamebda-rta-kinesisfh-prodcat -> Monitoring tab, check activity on your delivery stream.
 
 ![bda immersion](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/bda+immersion.png)
 
