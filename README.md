@@ -11,7 +11,7 @@ The AWS console can be access by clicking the "AWS Console" button in the top ri
 ![user dashboard](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/User+Dashboard.png)
  
 # Section I - Data Ingestion & Storage Layers
-## Lab 1.1 - Create simulated data in real-time data with KDG
+## Lab 1.1 - Create simulated data in real-time with KDG
 
 In lab 1, you will deploy an open-source serverless real-time data generator tool to simulate data in real-time and ingest into AWS Kinesis Firehose. We will simulate product catalogue data with random values. The data will be used in upcoming labs to demonstrate storage, processing, reporting and visualization. 
 
