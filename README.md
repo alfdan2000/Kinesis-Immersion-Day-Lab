@@ -30,9 +30,9 @@ Deploy Cloudformation Template from the above link
 <ol type="i">
 <li>Username: <i>kdgpoc</i> </li>
 <li>Password <i>(e.g. kdgpoc1234)</i></li>
-</ol type="i">
 
- ![create stack](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/create+stack.png)
+
+![create stack](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/create+stack.png)
 
 <li>Hit <i><b>Next</i></b> on the <i><b>Configuration Stack Options</i></b> page without making any changes.</li>
 
@@ -40,11 +40,11 @@ Deploy Cloudformation Template from the above link
 
 <li>At the <i><b>Review Kinesis-Data-Generator-Cognito-User</i></b> page, make sure to check the checkbox for “I acknowledge that AWS CloudFormation might create IAM resources.” At the bottom of the page, then hit <i><b>Create Stack</i></b>.</li>
 
- ![stack creation](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/stack+creation+options.png)
+![stack creation](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/stack+creation+options.png)
  
 <li>The stack creates a user password in a User DataBase (called User Pool) using the Amazon Cognito service.</li>
 <li>Select <i><b>Outputs tab</i></b> of the CloudFormation Stack, which contains a URL generated for your KDG. Copy this URL to your browser and navigate to the page. </li>
-
+</ol type="i">
 ![Kinesis data generator](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/kinesis+data+generator.png) 
 
 </ol type="A">
