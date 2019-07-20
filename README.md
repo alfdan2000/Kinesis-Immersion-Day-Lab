@@ -1,7 +1,5 @@
 # Kinesis-Immersion-Day-Lab
 
-# AWS Big Data and Analytics Immersion Day SF
-
 ## Section 0 – Logging in
 
 We have prepared accounts for you to use during today’s Immersion day. To login to your account, goto https://dashboard.eventengine.run/ and enter the hash provided to you by the facilitators.
