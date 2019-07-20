@@ -75,7 +75,7 @@ Deploy Cloudformation Template from the above link
 }
 ```
 
-This template generates data such as (each record will be random). 
+Below is a sample of generated values (each record will be random). 
 
 ```
 {    
