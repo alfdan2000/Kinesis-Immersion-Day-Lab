@@ -120,7 +120,7 @@ Amazon Kinesis Firehose benefits are:
 <li>Click <a href=https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=IAM-Roles&templateURL=https://lab-cloudformation-templates.s3.amazonaws.com/sf-immersion-day.json>here</a> to get started with setup IAM roles necessary for todays labs in your AWS account. Deploy Cloudformation Template from the above link</li>
 <ol type="A">
 <li>Hit <i><b>Next</i></b> on the <i><b>Create Stack</i></b> page.
-<li>At the <i><b>Specify Stack Details</i></b> page, enter <i><b>&#60;your initials + two digit number&#62;</b></i> for the parameter. The full length of the parameter <b><i><u>must be under 5 characters</u></b></i>.
+ <li>At the <i><b>Specify Stack Details</i></b> page, enter <i><b>&#60;your <u>LOWERCASE</u> initials + two digit number&#62;</b></i> for the parameter. The full length of the parameter <b><i><u>must be under 5 characters</u></b></i>.
 <li>Hit <b><i>Next</b></i> on the <b><i>Configuration Stack Options</b></i> page without making any changes
 <li>At the <b><i>Review IAM-Roles</b></i> page, make sure to check the checkbox for <i>“I acknowledge that AWS CloudFormation might create IAM resources.”</i> At the bottom of the page, then hit <b><i>Create Stack</b></i>.
 </ol type="A">
