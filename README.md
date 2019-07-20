@@ -110,11 +110,11 @@ In this lab, you will create a Firehose delivery stream from the AWS Management 
 
 
 Amazon Kinesis Firehose benefits are:
-•	No explicit provisioning or scaling, 
-•	Extremely simple APIs and console, 
-•	Guaranteed data capture and reliable delivery.
-•	It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. 
-•	It can also batch, compress, transform, and encrypt the data before loading it, minimizing the amount of storage used at the destination and increasing security.  
+  *	No explicit provisioning or scaling, 
+  *	Extremely simple APIs and console, 
+  *	Guaranteed data capture and reliable delivery.
+  *	It is a fully managed service that automatically scales to match the throughput of your data and requires no ongoing administration. 
+  *	It can also batch, compress, transform, and encrypt the data before loading it, minimizing the amount of storage used at the destination and increasing security.  
 
 <ol type="1">
 <li>Click <a href=https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=IAM-Roles&templateURL=https://lab-cloudformation-templates.s3.amazonaws.com/sf-immersion-day.json>here</a> to get started with setup IAM roles necessary for todays labs in your AWS account. Deploy Cloudformation Template from the above link</li>
