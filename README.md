@@ -45,6 +45,7 @@ Deploy Cloudformation Template from the above link
 <li>The stack creates a user password in a User DataBase (called User Pool) using the Amazon Cognito service.</li>
 <li>Select <i><b>Outputs tab</i></b> of the CloudFormation Stack, which contains a URL generated for your KDG. Copy this URL to your browser and navigate to the page. </li>
 </ol type="i">
+
 ![Kinesis data generator](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/kinesis+data+generator.png) 
 
 </ol type="A">
