@@ -23,8 +23,8 @@ KDG is a UI that simplifies how you send test data to Amazon Kinesis Streams or 
 <li>Click <a href =https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=Kinesis-Data-Generator-Cognito-User&templateURL=https://lab-cloudformation-templates.s3.amazonaws.com/cognito-setup.json>here</a> to get started with installing and configuring the KDG on your AWS account. Because the project is a collection of static HTML and JavaScript, No servers are required.</li>
 <br>
 Deploy Cloudformation Template from the above link
-<br>
 <ol type="A">
+<br>
 <li>Hit <b><i>Next</i></b> on the <b><i>Create Stack</b></i> page.</li>
 <li>Provide a username and password and hit <b><i>Next</b></i>.</li>
 <ol type="i">
