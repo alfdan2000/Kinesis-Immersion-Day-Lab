@@ -125,8 +125,12 @@ Amazon Kinesis Firehose benefits are:
 <li>At the <b><i>Review IAM-Roles</b></i> page, make sure to check the checkbox for <i>“I acknowledge that AWS CloudFormation might create IAM resources.”</i> At the bottom of the page, then hit <b><i>Create Stack</b></i>.
 </ol type="A">
 
-<li>Create a bucket using the same naming convention and press <b><i>Create:</b></i> bucket example: (name: <i><b>&#60;your initials + two digit number&#62;-tame-bda-immersion</b></i>. For instance <b><i>fs32-tame-bda-immersion</b></i> for Frank Sinatra) (Important, the CloudFormation template creates IAM policies according to a naming convention for simplicity. Therefore, please use the exact naming convention). 
-
+<li>Create a bucket using the same naming convention and press <b><i>Create:</b></i> 
+<ol type="i">
+<li><i><b>Important</i></b>, the CloudFormation template creates IAM policies according to the above naming convention. Therefore, use the exact same naming convention.
+<li>example name: (<i><b>&#60;your initials + two digit number&#62;-tame-bda-immersion</b></i>. For instance <b><i>fs32-tame-bda-immersion</b></i> for Frank Sinatra)  
+</ol type="i">
+ 
 ![create bucket](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/create+bucket.png)
  
 <li>Create a Firehose delivery stream and configure as follows:
