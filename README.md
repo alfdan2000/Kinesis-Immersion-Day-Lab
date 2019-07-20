@@ -167,7 +167,7 @@ Amazon Kinesis Firehose benefits are:
 
 ![bda immersion](https://csaimmersiondaymaterial.s3-us-west-2.amazonaws.com/Kinesis/bda+immersion.png)
 
-<li>From AWS console -> S3, go to the S3 folder you created. You should see data in <b><i>s3://&#60;bucket-name&#62;/&#60;prefix&#62;/&#60;year&#62;/&#60;month&#62;/&#60;day&#62;/&#60;hour&#62;format</b></i>. For instance: <b><i>s3:// &#60; your initials + two digit number &#62;-tame-bda-immersion/raw/2018/11/14/12</b></i>.
+<li>From AWS console -> S3, go to the S3 folder you created. You should see data in <b><i>s3://&#60;bucket-name&#62;/&#60;prefix&#62;/&#60;year&#62;/&#60;month&#62;/&#60;day&#62;/&#60;hour&#62;</b></i>format. For instance: <b><i>s3:// &#60; your initials + two digit number &#62;-tame-bda-immersion/raw/2018/11/14/12</b></i>.
 <ol type="A">
 <li>Hour is in UTC format.
 <li>Depending on your buffering configuration, Firehose writes data to S3 either when size limit (1 ML in our case) or time limit (60 seconds in our case) is reached, whichever condition is satisfied first triggers data delivery to Amazon S3.
